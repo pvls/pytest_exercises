@@ -1,4 +1,4 @@
-from functions import Operations
+from functions import *
 import pytest
 
 operators = Operations()

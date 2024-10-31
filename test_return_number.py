@@ -1,5 +1,5 @@
-import pytest
 from return_number import *
+import pytest
 
 
 def test_factorial():
